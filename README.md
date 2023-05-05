@@ -1,6 +1,6 @@
 # apple-ar-quick-look-demo
 
-`AppleARQuickLookDemo` is a native **iOS** augmented reality prototype written in **Swift** that demonstrates Apple's [AR Quick Look](https://developer.apple.com/augmented-reality/quick-look/) to place 3D objects in the real world, powered by [ARKit](https://developer.apple.com/augmented-reality/arkit/).
+`AppleARQuickLookDemo` is a native **iOS** augmented reality prototype written in **Swift** intended for learning purposes that demonstrates Apple's [AR Quick Look](https://developer.apple.com/augmented-reality/quick-look/) to place 3D objects in the real world, powered by [ARKit](https://developer.apple.com/augmented-reality/arkit/).
 
 [AR Quick Look](https://developer.apple.com/augmented-reality/quick-look/) also supports models and scenes created in [Reality Composer](https://developer.apple.com/augmented-reality/tools/), so you can easily create interactive experiences to be shared and viewed on iPhone and iPad.
 
